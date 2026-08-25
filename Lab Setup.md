@@ -8,4 +8,4 @@
 
 # Tools
 - Pimpmykali (Used to install web application testing packages)
-- 
+- Burp Suite
