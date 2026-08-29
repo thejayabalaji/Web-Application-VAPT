@@ -3,3 +3,7 @@
 ### OWASP top 10 : A03:2021 – Injection
 ### [CWE : CWE-89 – SQL Injection](https://cwe.mitre.org/data/definitions/89.html)
 
+# Directory Listing Exposure
+![image alt]()  ftp1 & ftp2
+### OWASP top 10
+### [CWE-538: File and Directory Information Exposure](https://cwe.mitre.org/data/definitions/538.html)
